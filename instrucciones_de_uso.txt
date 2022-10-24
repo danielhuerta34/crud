@@ -1,0 +1,17 @@
+configurar la ruta en archivo .env para que funcione el crud buscar la siguiente linea
+
+y por ejemplo si tu proyecto esta en una dentro de una carpeta llamada crud
+
+deberá quedar asi
+URL_PDOCRUD=/crud/app/
+
+y si la carpeta es prueba debera quedar asi
+
+URL_PDOCRUD=/prueba/app/
+
+
+no es necesario ejecutarlo con php artisan serve y la carpeta public ha sido excluida 
+en el archivo .htaccess se ha creado una regla para que el archivo .env no pueda ser visualizado
+
+
+para hacer las pruebas puede ir al menu Historico UF y borrar los registros luego recargar la página y se llenaran los datos con la api 
