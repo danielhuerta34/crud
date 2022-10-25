@@ -18,5 +18,11 @@ para hacer las pruebas puede ir al menu Historico UF y borrar los registros lueg
 
 credenciales de uso:
 
-correo: demo@demo.cl
-clave: 12345678
+
+Login: 
+
+correo1: dev@dev.com 
+Password1: root
+
+correo2: demo@demo.cl
+Password2: 12345678
