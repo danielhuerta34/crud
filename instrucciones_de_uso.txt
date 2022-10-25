@@ -15,3 +15,8 @@ en el archivo .htaccess se ha creado una regla para que el archivo .env no pueda
 
 
 para hacer las pruebas puede ir al menu Historico UF y borrar los registros luego recargar la página y se llenaran los datos con la api 
+
+credenciales de uso:
+
+correo: demo@demo.cl
+clave: 12345678
